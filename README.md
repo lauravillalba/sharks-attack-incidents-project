@@ -1,8 +1,6 @@
-
-
-https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjfm4XsuaTnAhWpyYUKHTdxAwYQjhx6BAgBEAI&url=https%3A%2F%2Fsp.depositphotos.com%2F303312996%2Fstock-video-black-shark-swim-attack-animated.html&psig=AOvVaw1ely49CSBDG8gs-AVEHlkv&ust=1580237444383583
+---------------------------
 # sharks-attacks-project 
-
+------------------------------
 El objetivo de este proyecto es aplicar las herramientas de limpieza y manipulación aprendidas para confirmar o desmentir la hipótesis planteada.
 
 ## Hipótesis:
