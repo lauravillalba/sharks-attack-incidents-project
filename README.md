@@ -11,11 +11,13 @@ La probabilidad de que sobrevivas a un ataque de tiburón es menor si has sido a
 
 ## Inputs:
 
-*csv --> https://www.kaggle.com/teajay/global-shark-attacks/version/1
+- csv --> https://www.kaggle.com/teajay/global-shark-attacks/version/1
 
 ## Outputs:
-*Tabla top10 países con más ataques.
+- Tabla top10 países con más ataques.
 
+## Consideraciones previas:
+- El atributo 'Case Number' es único.
 
 
 
